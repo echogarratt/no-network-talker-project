@@ -1,0 +1,12 @@
+H:\Documents\GCSE\Computer Science\voice test\voice test\bin\Debug\voice test.exe.config
+H:\Documents\GCSE\Computer Science\voice test\voice test\bin\Debug\voice test.exe
+H:\Documents\GCSE\Computer Science\voice test\voice test\bin\Debug\voice test.pdb
+H:\Documents\GCSE\Computer Science\voice test\voice test\bin\Debug\voice test.xml
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.vbprojAssemblyReference.cache
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice_test.Form1.resources
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice_test.Resources.resources
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.vbproj.GenerateResource.cache
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.vbproj.CoreCompileInputs.cache
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.exe
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.xml
+H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.pdb
