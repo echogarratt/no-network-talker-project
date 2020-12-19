@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Label16.Text" xml:space="preserve">
+    <value>To use commands, click in the textbox first. This will be fixed in the next update. Loud room mode sounds an alarm before you talk, to give everyone warning. More shortcuts will come in future updates. Fullscreen is coming at some point, when it behaves and fullscreens properly.</value>
+  </data>
 </root>

@@ -10,3 +10,15 @@ H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.vb
 H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.exe
 H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.xml
 H:\Documents\GCSE\Computer Science\voice test\voice test\obj\Debug\voice test.pdb
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\bin\Debug\voice test.exe.config
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\bin\Debug\voice test.exe
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\bin\Debug\voice test.pdb
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\bin\Debug\voice test.xml
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.vbprojAssemblyReference.cache
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice_test.Form1.resources
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice_test.Resources.resources
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.vbproj.GenerateResource.cache
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.vbproj.CoreCompileInputs.cache
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.exe
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.xml
+C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.pdb
