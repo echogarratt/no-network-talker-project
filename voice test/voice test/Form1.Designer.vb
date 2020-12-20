@@ -44,6 +44,28 @@ Partial Class Form1
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.Label17 = New System.Windows.Forms.Label()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Label23 = New System.Windows.Forms.Label()
+        Me.Label24 = New System.Windows.Forms.Label()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.Label27 = New System.Windows.Forms.Label()
+        Me.Label28 = New System.Windows.Forms.Label()
+        Me.Label29 = New System.Windows.Forms.Label()
+        Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.TextBox5 = New System.Windows.Forms.TextBox()
+        Me.TextBox6 = New System.Windows.Forms.TextBox()
+        Me.TextBox7 = New System.Windows.Forms.TextBox()
+        Me.TextBox8 = New System.Windows.Forms.TextBox()
+        Me.TextBox9 = New System.Windows.Forms.TextBox()
+        Me.TextBox10 = New System.Windows.Forms.TextBox()
+        Me.TextBox11 = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -297,12 +319,288 @@ Partial Class Form1
         Me.Label17.TabIndex = 21
         Me.Label17.Text = "N/A"
         '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.BackColor = System.Drawing.Color.Black
+        Me.Label18.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label18.ForeColor = System.Drawing.Color.Lime
+        Me.Label18.Location = New System.Drawing.Point(18, 680)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(140, 15)
+        Me.Label18.TabIndex = 22
+        Me.Label18.Text = "press ALT+1 to say:"
+        '
+        'TextBox2
+        '
+        Me.TextBox2.BackColor = System.Drawing.Color.Black
+        Me.TextBox2.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox2.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox2.Location = New System.Drawing.Point(154, 678)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox2.TabIndex = 23
+        Me.TextBox2.Text = "custom hotkey!"
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.BackColor = System.Drawing.Color.Black
+        Me.Label19.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label19.ForeColor = System.Drawing.Color.Lime
+        Me.Label19.Location = New System.Drawing.Point(18, 706)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(140, 15)
+        Me.Label19.TabIndex = 24
+        Me.Label19.Text = "press ALT+2 to say:"
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.BackColor = System.Drawing.Color.Black
+        Me.Label20.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label20.ForeColor = System.Drawing.Color.Lime
+        Me.Label20.Location = New System.Drawing.Point(18, 732)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(140, 15)
+        Me.Label20.TabIndex = 26
+        Me.Label20.Text = "press ALT+3 to say:"
+        '
+        'Label21
+        '
+        Me.Label21.AutoSize = True
+        Me.Label21.BackColor = System.Drawing.Color.Black
+        Me.Label21.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label21.ForeColor = System.Drawing.Color.Lime
+        Me.Label21.Location = New System.Drawing.Point(18, 757)
+        Me.Label21.Name = "Label21"
+        Me.Label21.Size = New System.Drawing.Size(140, 15)
+        Me.Label21.TabIndex = 28
+        Me.Label21.Text = "press ALT+4 to say:"
+        '
+        'Label22
+        '
+        Me.Label22.AutoSize = True
+        Me.Label22.BackColor = System.Drawing.Color.Black
+        Me.Label22.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label22.ForeColor = System.Drawing.Color.Lime
+        Me.Label22.Location = New System.Drawing.Point(444, 680)
+        Me.Label22.Name = "Label22"
+        Me.Label22.Size = New System.Drawing.Size(140, 15)
+        Me.Label22.TabIndex = 30
+        Me.Label22.Text = "press ALT+5 to say:"
+        '
+        'Label23
+        '
+        Me.Label23.AutoSize = True
+        Me.Label23.BackColor = System.Drawing.Color.Black
+        Me.Label23.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label23.ForeColor = System.Drawing.Color.Lime
+        Me.Label23.Location = New System.Drawing.Point(444, 706)
+        Me.Label23.Name = "Label23"
+        Me.Label23.Size = New System.Drawing.Size(140, 15)
+        Me.Label23.TabIndex = 32
+        Me.Label23.Text = "press ALT+6 to say:"
+        '
+        'Label24
+        '
+        Me.Label24.AutoSize = True
+        Me.Label24.BackColor = System.Drawing.Color.Black
+        Me.Label24.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label24.ForeColor = System.Drawing.Color.Lime
+        Me.Label24.Location = New System.Drawing.Point(444, 732)
+        Me.Label24.Name = "Label24"
+        Me.Label24.Size = New System.Drawing.Size(140, 15)
+        Me.Label24.TabIndex = 34
+        Me.Label24.Text = "press ALT+7 to say:"
+        '
+        'Label25
+        '
+        Me.Label25.AutoSize = True
+        Me.Label25.BackColor = System.Drawing.Color.Black
+        Me.Label25.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label25.ForeColor = System.Drawing.Color.Lime
+        Me.Label25.Location = New System.Drawing.Point(444, 757)
+        Me.Label25.Name = "Label25"
+        Me.Label25.Size = New System.Drawing.Size(140, 15)
+        Me.Label25.TabIndex = 36
+        Me.Label25.Text = "press ALT+8 to say:"
+        '
+        'Label26
+        '
+        Me.Label26.AutoSize = True
+        Me.Label26.BackColor = System.Drawing.Color.Black
+        Me.Label26.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label26.ForeColor = System.Drawing.Color.Lime
+        Me.Label26.Location = New System.Drawing.Point(871, 680)
+        Me.Label26.Name = "Label26"
+        Me.Label26.Size = New System.Drawing.Size(140, 15)
+        Me.Label26.TabIndex = 38
+        Me.Label26.Text = "press ALT+9 to say:"
+        '
+        'Label27
+        '
+        Me.Label27.AutoSize = True
+        Me.Label27.BackColor = System.Drawing.Color.Black
+        Me.Label27.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label27.ForeColor = System.Drawing.Color.Lime
+        Me.Label27.Location = New System.Drawing.Point(871, 706)
+        Me.Label27.Name = "Label27"
+        Me.Label27.Size = New System.Drawing.Size(140, 15)
+        Me.Label27.TabIndex = 40
+        Me.Label27.Text = "press ALT+0 to say:"
+        '
+        'Label28
+        '
+        Me.Label28.AutoSize = True
+        Me.Label28.BackColor = System.Drawing.Color.Black
+        Me.Label28.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label28.ForeColor = System.Drawing.Color.Lime
+        Me.Label28.Location = New System.Drawing.Point(872, 735)
+        Me.Label28.Name = "Label28"
+        Me.Label28.Size = New System.Drawing.Size(28, 15)
+        Me.Label28.TabIndex = 42
+        Me.Label28.Text = "N/A"
+        '
+        'Label29
+        '
+        Me.Label29.AutoSize = True
+        Me.Label29.BackColor = System.Drawing.Color.Black
+        Me.Label29.Font = New System.Drawing.Font("Consolas", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label29.ForeColor = System.Drawing.Color.Lime
+        Me.Label29.Location = New System.Drawing.Point(872, 760)
+        Me.Label29.Name = "Label29"
+        Me.Label29.Size = New System.Drawing.Size(28, 15)
+        Me.Label29.TabIndex = 43
+        Me.Label29.Text = "N/A"
+        '
+        'TextBox3
+        '
+        Me.TextBox3.BackColor = System.Drawing.Color.Black
+        Me.TextBox3.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox3.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox3.Location = New System.Drawing.Point(154, 704)
+        Me.TextBox3.Name = "TextBox3"
+        Me.TextBox3.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox3.TabIndex = 44
+        Me.TextBox3.Text = "custom hotkey!"
+        '
+        'TextBox4
+        '
+        Me.TextBox4.BackColor = System.Drawing.Color.Black
+        Me.TextBox4.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox4.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox4.Location = New System.Drawing.Point(154, 730)
+        Me.TextBox4.Name = "TextBox4"
+        Me.TextBox4.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox4.TabIndex = 45
+        Me.TextBox4.Text = "custom hotkey!"
+        '
+        'TextBox5
+        '
+        Me.TextBox5.BackColor = System.Drawing.Color.Black
+        Me.TextBox5.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox5.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox5.Location = New System.Drawing.Point(154, 755)
+        Me.TextBox5.Name = "TextBox5"
+        Me.TextBox5.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox5.TabIndex = 46
+        Me.TextBox5.Text = "custom hotkey!"
+        '
+        'TextBox6
+        '
+        Me.TextBox6.BackColor = System.Drawing.Color.Black
+        Me.TextBox6.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox6.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox6.Location = New System.Drawing.Point(579, 678)
+        Me.TextBox6.Name = "TextBox6"
+        Me.TextBox6.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox6.TabIndex = 47
+        Me.TextBox6.Text = "custom hotkey!"
+        '
+        'TextBox7
+        '
+        Me.TextBox7.BackColor = System.Drawing.Color.Black
+        Me.TextBox7.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox7.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox7.Location = New System.Drawing.Point(579, 704)
+        Me.TextBox7.Name = "TextBox7"
+        Me.TextBox7.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox7.TabIndex = 48
+        Me.TextBox7.Text = "custom hotkey!"
+        '
+        'TextBox8
+        '
+        Me.TextBox8.BackColor = System.Drawing.Color.Black
+        Me.TextBox8.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox8.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox8.Location = New System.Drawing.Point(580, 730)
+        Me.TextBox8.Name = "TextBox8"
+        Me.TextBox8.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox8.TabIndex = 49
+        Me.TextBox8.Text = "custom hotkey!"
+        '
+        'TextBox9
+        '
+        Me.TextBox9.BackColor = System.Drawing.Color.Black
+        Me.TextBox9.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox9.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox9.Location = New System.Drawing.Point(579, 755)
+        Me.TextBox9.Name = "TextBox9"
+        Me.TextBox9.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox9.TabIndex = 50
+        Me.TextBox9.Text = "custom hotkey!"
+        '
+        'TextBox10
+        '
+        Me.TextBox10.BackColor = System.Drawing.Color.Black
+        Me.TextBox10.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox10.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox10.Location = New System.Drawing.Point(1008, 678)
+        Me.TextBox10.Name = "TextBox10"
+        Me.TextBox10.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox10.TabIndex = 51
+        Me.TextBox10.Text = "custom hotkey!"
+        '
+        'TextBox11
+        '
+        Me.TextBox11.BackColor = System.Drawing.Color.Black
+        Me.TextBox11.Font = New System.Drawing.Font("Consolas", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TextBox11.ForeColor = System.Drawing.Color.Lime
+        Me.TextBox11.Location = New System.Drawing.Point(1008, 704)
+        Me.TextBox11.Name = "TextBox11"
+        Me.TextBox11.Size = New System.Drawing.Size(286, 20)
+        Me.TextBox11.TabIndex = 52
+        Me.TextBox11.Text = "custom hotkey!"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(1321, 666)
+        Me.ClientSize = New System.Drawing.Size(1321, 787)
+        Me.Controls.Add(Me.TextBox11)
+        Me.Controls.Add(Me.TextBox10)
+        Me.Controls.Add(Me.TextBox9)
+        Me.Controls.Add(Me.TextBox8)
+        Me.Controls.Add(Me.TextBox7)
+        Me.Controls.Add(Me.TextBox6)
+        Me.Controls.Add(Me.TextBox5)
+        Me.Controls.Add(Me.TextBox4)
+        Me.Controls.Add(Me.TextBox3)
+        Me.Controls.Add(Me.Label29)
+        Me.Controls.Add(Me.Label28)
+        Me.Controls.Add(Me.Label27)
+        Me.Controls.Add(Me.Label26)
+        Me.Controls.Add(Me.Label25)
+        Me.Controls.Add(Me.Label24)
+        Me.Controls.Add(Me.Label23)
+        Me.Controls.Add(Me.Label22)
+        Me.Controls.Add(Me.Label21)
+        Me.Controls.Add(Me.Label20)
+        Me.Controls.Add(Me.Label19)
+        Me.Controls.Add(Me.TextBox2)
+        Me.Controls.Add(Me.Label18)
         Me.Controls.Add(Me.Label17)
         Me.Controls.Add(Me.Label16)
         Me.Controls.Add(Me.Button2)
@@ -353,4 +651,26 @@ Partial Class Form1
     Friend WithEvents Button2 As Button
     Friend WithEvents Label16 As Label
     Friend WithEvents Label17 As Label
+    Friend WithEvents Label18 As Label
+    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents Label19 As Label
+    Friend WithEvents Label20 As Label
+    Friend WithEvents Label21 As Label
+    Friend WithEvents Label22 As Label
+    Friend WithEvents Label23 As Label
+    Friend WithEvents Label24 As Label
+    Friend WithEvents Label25 As Label
+    Friend WithEvents Label26 As Label
+    Friend WithEvents Label27 As Label
+    Friend WithEvents Label28 As Label
+    Friend WithEvents Label29 As Label
+    Friend WithEvents TextBox3 As TextBox
+    Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents TextBox5 As TextBox
+    Friend WithEvents TextBox6 As TextBox
+    Friend WithEvents TextBox7 As TextBox
+    Friend WithEvents TextBox8 As TextBox
+    Friend WithEvents TextBox9 As TextBox
+    Friend WithEvents TextBox10 As TextBox
+    Friend WithEvents TextBox11 As TextBox
 End Class

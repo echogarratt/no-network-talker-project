@@ -56,6 +56,38 @@
 
 
 
+        If e.Alt AndAlso e.KeyCode = Keys.D1 Then
+            TextBox1.Text = TextBox2.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D2 Then
+            TextBox1.Text = TextBox3.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D3 Then
+            TextBox1.Text = TextBox4.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D4 Then
+            TextBox1.Text = TextBox5.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D5 Then
+            TextBox1.Text = TextBox6.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D6 Then
+            TextBox1.Text = TextBox7.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D7 Then
+            TextBox1.Text = TextBox8.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D8 Then
+            TextBox1.Text = TextBox9.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D9 Then
+            TextBox1.Text = TextBox10.Text
+            SAPI.speak(TextBox1.Text)
+        ElseIf e.Alt AndAlso e.KeyCode = Keys.D0 Then
+            TextBox1.Text = TextBox11.Text
+            SAPI.speak(TextBox1.Text)
+        End If
+
     End Sub
 
 
