@@ -16,7 +16,11 @@
     End Sub
 
 
-    Private Sub TextBox1_KeyDown(ByVal sender As Object, ByVal e As KeyEventArgs) Handles TextBox1.KeyDown
+    Private Sub Form1_KeyDown(ByVal sender As Object, ByVal e As KeyEventArgs) Handles TextBox1.KeyDown, TextBox2.KeyDown, TextBox3.KeyDown, TextBox4.KeyDown, TextBox5.KeyDown, TextBox6.KeyDown, TextBox7.KeyDown, TextBox8.KeyDown, TextBox9.KeyDown, TextBox10.KeyDown, TextBox11.KeyDown, Button1.KeyDown, Button2.KeyDown, Button3.KeyDown
+
+        If e.Alt Then
+            e.SuppressKeyPress = True
+        End If
 
         If loudMode = True And e.Control Then
             SAPI.speak("ding ding ding")
@@ -114,4 +118,5 @@
 
 
     End Sub
+
 End Class
