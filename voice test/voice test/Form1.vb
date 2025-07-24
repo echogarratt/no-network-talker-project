@@ -26,70 +26,74 @@
             SAPI.speak("ding ding ding")
         End If
 
-        If e.Control AndAlso e.KeyCode = Keys.D1 Then
-            TextBox1.Text = ("Yes")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D2 Then
-            TextBox1.Text = ("No")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D3 Then
-            TextBox1.Text = ("Maybe")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D4 Then
-            TextBox1.Text = ("I feel hungry")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D5 Then
-            TextBox1.Text = ("I feel sick")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D6 Then
-            TextBox1.Text = ("I feel tired")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D7 Then
-            TextBox1.Text = ("I feel happy")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D8 Then
-            TextBox1.Text = ("I feel sad")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D9 Then
-            TextBox1.Text = ("Please leave me alone")
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Control AndAlso e.KeyCode = Keys.D0 Then
-            TextBox1.Text = ("I want a hug please")
-            SAPI.speak(TextBox1.Text)
+        If e.Control Then
+            If e.KeyCode = Keys.D1 Then
+                TextBox1.Text = ("Yes")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D2 Then
+                TextBox1.Text = ("No")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D3 Then
+                TextBox1.Text = ("Maybe")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D4 Then
+                TextBox1.Text = ("I feel hungry")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D5 Then
+                TextBox1.Text = ("I feel sick")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D6 Then
+                TextBox1.Text = ("I feel tired")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D7 Then
+                TextBox1.Text = ("I feel happy")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D8 Then
+                TextBox1.Text = ("I feel sad")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D9 Then
+                TextBox1.Text = ("Please leave me alone")
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D0 Then
+                TextBox1.Text = ("I want a hug please")
+                SAPI.speak(TextBox1.Text)
+            End If
         End If
 
 
 
-        If e.Alt AndAlso e.KeyCode = Keys.D1 Then
-            TextBox1.Text = TextBox2.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D2 Then
-            TextBox1.Text = TextBox3.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D3 Then
-            TextBox1.Text = TextBox4.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D4 Then
-            TextBox1.Text = TextBox5.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D5 Then
-            TextBox1.Text = TextBox6.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D6 Then
-            TextBox1.Text = TextBox7.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D7 Then
-            TextBox1.Text = TextBox8.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D8 Then
-            TextBox1.Text = TextBox9.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D9 Then
-            TextBox1.Text = TextBox10.Text
-            SAPI.speak(TextBox1.Text)
-        ElseIf e.Alt AndAlso e.KeyCode = Keys.D0 Then
-            TextBox1.Text = TextBox11.Text
-            SAPI.speak(TextBox1.Text)
+        If e.Alt Then
+            If e.KeyCode = Keys.D1 Then
+                TextBox1.Text = TextBox2.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D2 Then
+                TextBox1.Text = TextBox3.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D3 Then
+                TextBox1.Text = TextBox4.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D4 Then
+                TextBox1.Text = TextBox5.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D5 Then
+                TextBox1.Text = TextBox6.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D6 Then
+                TextBox1.Text = TextBox7.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D7 Then
+                TextBox1.Text = TextBox8.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D8 Then
+                TextBox1.Text = TextBox9.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D9 Then
+                TextBox1.Text = TextBox10.Text
+                SAPI.speak(TextBox1.Text)
+            ElseIf e.KeyCode = Keys.D0 Then
+                TextBox1.Text = TextBox11.Text
+                SAPI.speak(TextBox1.Text)
+            End If
         End If
 
     End Sub
@@ -119,4 +123,29 @@
 
     End Sub
 
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+        Dim voice = ComboBox1.SelectedItem
+
+        Dim voiceList = SAPI.GetVoices()
+        Dim voiceData
+
+        For i As Integer = 0 To voiceList.Count - 1
+            If (voiceList.Item(i).GetDescription) = voice Then
+                voiceData = voiceList.Item(i)
+            End If
+        Next
+
+        SAPI.Voice = voiceData
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Dim voiceList = SAPI.GetVoices()
+
+        Dim arrLst As New ArrayList
+        For i As Integer = 0 To voiceList.Count - 1
+            arrLst.Add(voiceList.Item(i).GetDescription)
+        Next
+        ComboBox1.DataSource = arrLst
+
+    End Sub
 End Class

@@ -22,3 +22,15 @@ C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test
 C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.exe
 C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.xml
 C:\Users\Children games\Documents\Dylan\Coding\Dads christmas present\voice test\voice test\obj\Debug\voice test.pdb
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\bin\Debug\voice test.exe.config
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\bin\Debug\voice test.exe
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\bin\Debug\voice test.pdb
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\bin\Debug\voice test.xml
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice test.vbprojAssemblyReference.cache
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice_test.Form1.resources
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice_test.Resources.resources
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice test.vbproj.GenerateResource.cache
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice test.vbproj.CoreCompileInputs.cache
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice test.exe
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice test.xml
+f:\Users\Children Games\Documents\Echo\Coding\no-network-talker-project\voice test\voice test\obj\Debug\voice test.pdb
